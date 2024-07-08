@@ -102,6 +102,110 @@ body, html{
     width: 100%;
 }
 
+.mainDiv .firstSection .rotate .rborder{
+    /* margin-top: 468px;
+    margin-left: 954px;
+    height: 80px;
+    width: 80px; */
+}
+
+.mainDiv .firstSection .rotate .rborder .img{
+    background: url('../img/Image.png');
+    position: absolute;
+    top: 140px;
+    left: 500px;
+    /* top: 25%;
+    left: 33%; */
+    height: 450px;
+
+    /* height: 571px;
+    width: 572px; */
+    height: 420px;
+    width: 420px;
+    background-repeat: no-repeat;
+    /* background-size: auto; */
+    background-size: 420px 420px;
+  
+}
+
+.mainDiv .firstSection .rotate .rborder .img img{
+    /* position: absolute;
+    top: 25%;
+    left: 33%;
+    height: 450px; */
+}
+
+.mainDiv .firstSection .rotate .rborder .img .cosy{
+    position: absolute;
+    top: -101px;
+    left: 49px;
+}
+.mainDiv .firstSection .rotate .rborder .img .cosy h2{
+    /* font-family: 'Poppins', sans-serif; */
+    
+    font-family: 'Boska', serif;
+    font-style: italic;
+    font-size: 180px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.mainDiv .firstSection .rotate .rborder .img .cabin{
+    /* position: absolute;
+    top: -121px;
+    left: 80px; */
+
+    margin-top: 58px;
+    margin-left: 159px;
+}
+.mainDiv .firstSection .rotate .rborder .img .cabin h2{
+
+    font-family: 'Boska', serif;
+    font-style: italic;
+    font-size: 180px;
+    font-weight: 400;
+    color: #75FF69;
+}
+
+.mainDiv .firstSection .rotate .rborder .img .woods{
+    margin-top: -85px;
+    margin-left: -2px;
+}
+.mainDiv .firstSection .rotate .rborder .img .woods h2{
+
+    font-family: 'Boska', serif;
+    font-style: italic;
+    font-size: 180px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.mainDiv .firstSection .rotate .rborder .img .it{
+    margin-top: -31px;
+    margin-left: 237px;
+}
+.mainDiv .firstSection .rotate .rborder .img .it span{
+
+    font-family: 'Boska', serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.mainDiv .firstSection .rotate .rborder .img .pt{
+    margin-top: 22px;
+    margin-left: 57px;
+}
+.mainDiv .firstSection .rotate .rborder .img .pt p{
+
+    font-family: 'Boska', serif;
+    font-style: italic;
+    font-size: 12px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
 .mainDiv .firstSection .rotate .rmedia{
     margin-top: 468px;
     margin-left: 954px;
@@ -137,6 +241,16 @@ body, html{
     opacity: 100%;
 }
 
+/* second section */
+
+.mainDiv .secondDiv{
+    background: #FFFFFF;
+    /* width: 1440px; */
+    height: 830px;
+    border: 1px solid red;
+    margin-top: -50px;
+    overflow: hidden;
+}
 
 
 
